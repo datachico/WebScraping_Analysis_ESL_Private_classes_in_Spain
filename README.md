@@ -14,3 +14,5 @@ Paid advertising. What percentage of teachers pay for advertising on the site an
 Search results. Who is at the top? Does the algorithm favor teachers with reviews, paying customers, new teachers, teachers with a photo….?
 
 
+# Notes
+- zipped CSV has all data that was scraped and used in analysis
