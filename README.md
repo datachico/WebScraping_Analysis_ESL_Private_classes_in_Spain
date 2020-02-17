@@ -2,7 +2,7 @@
 Understand the competitive landscape of any industry by analyzing publically available data. 
 The following is a case study that examines the Spanish ESL market using the most popular private teacher website.
 
-Introduction
+# Introduction
 
 As a new English teacher, I'm curious about the overall ESL market in Spain. Specifically:
 
